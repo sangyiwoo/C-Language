@@ -1,2 +1,1 @@
-#STUDY
-* C-language
+
