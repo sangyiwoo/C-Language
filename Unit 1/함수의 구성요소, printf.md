@@ -1,5 +1,5 @@
 ﻿Hello World
-```
+```C
 #include <stdio.h> //헤더 파일을 포함
 int main(void) //메인 함수 시작
 {
