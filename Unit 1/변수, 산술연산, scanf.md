@@ -1,5 +1,5 @@
 A+B
-```
+```C
 #include <stdio.h>
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
 }
 ```
 A-B
-```
+```C
 #include <stdio.h>
 int main(void)
 {
@@ -22,7 +22,7 @@ int main(void)
 }
 ```
 A×B
-```
+```C
 #include <stdio.h>
 int main(void)
 {
@@ -33,7 +33,7 @@ int main(void)
 }
 ```
 A/B
-```
+```C
 #include <stdio.h>
 int main(void)
 {
